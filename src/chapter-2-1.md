@@ -1,5 +1,4 @@
-Chapter 1: Understanding AI and its Applications in Empathy: What is AI and How Does it Work?
-=============================================================================================
+# What is AI and How Does it Work?
 
 In this chapter, we will provide an introduction to AI and explain how it can be applied to empathy practices.
 
