@@ -16,7 +16,6 @@ Despite these challenges, the potential benefits of developing empathy with AI a
 
 Overall, this book aims to provide an overview of the techniques and strategies for developing empathy with artificial intelligence, and to explore the different ways in which AI is being used in empathy practices today. Through this exploration, we hope to inspire further innovation and progress in the field, and to contribute to the ongoing conversation around the role of AI in promoting empathy and emotional intelligence.
 
-
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
 
 
