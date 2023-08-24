@@ -1,5 +1,3 @@
-What You Can Expect from This Book
-================================================
 
 In this book, we will explore the concept of empathy and how artificial intelligence (AI) can be used to develop empathy skills. We will discuss how AI technology works, common applications of AI in promoting empathy, and provide examples of successful implementation of AI in empathy.
 

@@ -1,4 +1,3 @@
-# Personalizing Empathy Exercises with Machine Learning
 
 Empathy exercises are an important tool in developing empathy skills. However, not all empathy exercises work for everyone. To address this issue, AI-powered machine learning algorithms can be used to personalize empathy exercises based on individuals' unique needs and preferences.
 

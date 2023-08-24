@@ -1,5 +1,3 @@
-Chapter 2: Designing Your AI-Powered Empathy Practice
-=====================================================
 
 In this chapter, we will explore how to design an AI-powered empathy practice that is tailored to your unique needs and goals. By integrating AI-powered tools for tracking and reflecting on empathetic experiences and setting realistic goals, you can develop your empathy skills in a way that is effective and sustainable.
 

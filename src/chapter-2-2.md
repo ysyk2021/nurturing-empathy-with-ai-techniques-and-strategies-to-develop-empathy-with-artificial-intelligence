@@ -1,4 +1,3 @@
-# Common Applications of AI in Promoting Empathy, Including Sentiment Analysis and Virtual Reality Experiences
 
 In this chapter, we will explore some common applications of Artificial Intelligence (AI) in promoting empathy. AI has the potential to revolutionize the way we understand and cultivate empathy, enabling us to connect with others on a deeper level. Two prominent applications that have proven effective in this regard are sentiment analysis and virtual reality experiences.
 

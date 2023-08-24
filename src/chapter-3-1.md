@@ -1,4 +1,3 @@
-# Steps for Creating a Personalized Empathy Practice
 
 In this chapter, we will explore the steps for creating a personalized empathy practice that leverages AI-powered tools and strategies.
 

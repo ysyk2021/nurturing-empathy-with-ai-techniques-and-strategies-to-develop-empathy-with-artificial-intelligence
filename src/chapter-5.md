@@ -1,5 +1,3 @@
-Chapter 4: Enhancing Empathy Exercises with AI
-==============================================
 
 In this chapter, we will explore how AI technology can be used to enhance empathy exercises and provide more immersive and personalized experiences for individuals looking to develop their empathy skills.
 
