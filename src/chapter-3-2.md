@@ -1,5 +1,4 @@
-Chapter 8: Integrating AI-Powered Tools for Tracking and Reflecting on Empathetic Experiences
-=============================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the integration of AI-powered tools for tracking and reflecting on empathetic experiences. We will discuss how these tools can enhance our understanding of empathy, provide valuable insights, and support the development of empathy with artificial intelligence.
 

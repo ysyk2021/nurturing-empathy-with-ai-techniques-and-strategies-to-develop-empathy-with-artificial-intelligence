@@ -1,5 +1,4 @@
-Chapter: Implementing AI-Powered Prompts and Exercises for Developing Empathy
-=============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Introduction
 ------------

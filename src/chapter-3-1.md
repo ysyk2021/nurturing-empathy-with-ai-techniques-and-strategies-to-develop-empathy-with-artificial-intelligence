@@ -1,5 +1,4 @@
-Chapter 12: Steps for Creating a Personalized Empathy Practice
-==============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the steps involved in creating a personalized empathy practice using AI techniques and strategies. We will discuss how individuals can leverage technology to develop and nurture their empathetic skills in meaningful and tailored ways.
 

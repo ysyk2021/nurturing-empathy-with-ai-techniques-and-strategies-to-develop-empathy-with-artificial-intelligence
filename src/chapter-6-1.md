@@ -1,5 +1,4 @@
-Chapter: Addressing Concerns about Privacy and Security When Using AI in Empathy Practices
-==========================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Introduction
 ------------

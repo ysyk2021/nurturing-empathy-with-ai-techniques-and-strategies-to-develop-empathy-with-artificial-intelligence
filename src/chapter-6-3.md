@@ -1,5 +1,4 @@
-Chapter: Future Developments and Trends in AI-Powered Empathy
-=============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Introduction
 ------------
